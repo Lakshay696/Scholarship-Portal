@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url('/images/aesthetic_background.jpg');
+    background-image: url('./images/aesthetic_background.jpg');
     background-repeat: no-repeat;
     /* background-size: 100%;  */
     color: white;

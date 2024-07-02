@@ -69,7 +69,7 @@ p{
     min-width: 300px;
 }
 body{
-    background-image: url('/images/aesthetic_background.jpg');
+    background-image: url('./images/aesthetic_background.jpg');
 }
 .col-2 img{
     max-width: 100%;
